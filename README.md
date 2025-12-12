@@ -67,18 +67,6 @@ Instagram: https://instagram.com/igrejacomunidadedesperta
 
 Facebook: https://facebook.com/igrejacomunidadedesperta
 
-📂 Estrutura Geral do Projeto:
-
-/
-├── index.html
-├── styles.css
-├── script.js
-├── images/
-│   └── imagens do site
-├── documents/
-│   └── QUEM SOMOS.docx
-└── README.md
-
 🤝 Contribuições
 
 Sugestões, correções e melhorias são bem-vindas.
